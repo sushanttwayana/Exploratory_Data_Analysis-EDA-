@@ -1,0 +1,27 @@
+employee_id,name,department,salary,join_date,location,performance_score
+001,Ahmad Bin Rahman,Finance,85000.00,2023-01-15,Kuala Lumpur,4.2
+002,Nurul Aishah Binti Ismail,HR,72000.00,2022-06-22,Penang,4.8
+003,Mohd Arif Bin Abdullah,IT,95000.00,2021-11-08,Johor Bahru,4.5
+004,Siti Fatimah Binti Hassan,Marketing,68000.00,2023-09-03,Melaka,3.9
+005,Tan Wei Ming,Engineering,110000.00,2020-03-12,Kuala Lumpur,4.7
+006,Rajesh Kumar,Sales,62000.00,2024-02-18,Petaling Jaya,4.1
+007,Lee Mei Ling,Finance,78000.00,2022-08-30,Seremban,4.3
+008,Khairul Nizam Bin Yusof,IT,92000.00,2021-05-27,Ipoh,4.6
+009,Aminah Binti Zainal,Operations,65000.00,2023-04-11,Kuching,4.0
+010,David Lim Chee Wei,Engineering,105000.00,2020-12-05,Shah Alam,4.9
+011,Fatimah Zahra Binti Osman,HR,71000.00,2022-10-19,Kota Kinabalu,4.4
+012,Azlan Bin Mohd,Marketing,69000.00,2023-07-22,Alor Setar,3.8
+013,Ng Siew Mei,Sales,64000.00,2024-01-09,Kuala Terengganu,4.2
+014,Hassan Bin Salleh,Finance,83000.00,2021-09-14,Kuantan,4.5
+015,Chan Wei Jie,IT,98000.00,2022-02-28,George Town,4.7
+016,Norhayati Binti Ahmad,Operations,67000.00,2023-11-05,Miri,4.1
+017,Muhamad Faris Bin Ali,Engineering,115000.00,2020-07-18,Kuala Lumpur,4.8
+018,Salmah Binti Rahman,HR,73000.00,2022-04-12,Sungai Petani,4.3
+019,Wong Tuck Fatt,Sales,61000.00,2024-03-30,Batu Pahat,3.9
+020,Zulkifli Bin Hashim,Marketing,70000.00,2021-12-09,Kuala Lumpur,4.6
+001,Training Hours Completed,Certifications Earned,Projects Assigned
+002,45,2,5
+003,62,3,8
+004,38,1,4
+005,85,4,12
+006,29,1,3
